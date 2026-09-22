@@ -71,8 +71,6 @@ if(data.results.length === 0){
   
 }
 setMovies(data.results);
-console.log(data);
-
 } catch(erro){
 setError(erro.message);
 } finally{

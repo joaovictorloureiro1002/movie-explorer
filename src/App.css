@@ -193,6 +193,15 @@ font-size: 14px;
 font-size: 15px;
 }
 
+.details-itens {
+  flex: 1;
+}
+
+.details-itens h1 {
+  font-size: 42px;
+  line-height: 1.05;
+}
+
 @media (max-width: 750px){
 
 
